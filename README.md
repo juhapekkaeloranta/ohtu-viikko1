@@ -1,2 +1,1 @@
-# ohtu-viikko1
-Ohjelmistotuotantokurssi 4/2016
+[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
