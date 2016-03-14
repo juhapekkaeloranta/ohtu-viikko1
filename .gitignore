@@ -1,0 +1,5 @@
+#.tmp paatteiset file juuressa
+*.tmp
+
+#target kansio
+target/
